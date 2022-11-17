@@ -27,7 +27,7 @@ const questions = [{
     message: "How is the app used? Give instructions",
     name: "Usage"
 }, {
-    type: "list",
+    type: "input",
     message: "What liscence is being used? (ie...MIT)",
     name: "License"
     
