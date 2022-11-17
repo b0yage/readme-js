@@ -1,4 +1,4 @@
-# readme generator
+# Readme Generator
   
   ## License
   ![Github license](https://img.shields.io/badge/license-MIT-yellow.svg)
@@ -20,7 +20,7 @@
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE. 
 ## Description
-d
+creating a readme generator with nodejs
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -28,13 +28,13 @@ d
 * [Tests](#tests)
 * [Questions](#questions)
 ## Installation
-d
+inquirer, fs
 ## Usage 
-d
+the app is used by answering simple questions filling in the readme 
 ## Contribute
-dd
+christian vertiz (b0yage)
 ## Tests
-
+node index.js
 ## Questions
-For questions checkout my GitHub account (https://github.com/d) or email me at dd 
+For questions checkout my GitHub account (https://github.com/b0yage) or email me at christivnvertiz@gmail.com 
 
